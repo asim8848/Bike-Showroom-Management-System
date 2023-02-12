@@ -1,0 +1,110 @@
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe.config
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.pdb
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.AssemblyReference.cache
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form1.resources
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Properties.Resources.resources
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.GenerateResource.cache
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.CoreCompileInputs.cache
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.exe
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.pdb
+C:\Users\omer0\source\repos\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form2.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe.config
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.pdb
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.AssemblyReference.cache
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form1.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form2.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form3.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form4.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form5.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form6.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form7.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form8.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form9.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Properties.Resources.resources
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.GenerateResource.cache
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.CoreCompileInputs.cache
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.exe
+C:\Users\alifa\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.pdb
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe.config
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.pdb
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.AssemblyReference.cache
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.SuggestedBindingRedirects.cache
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form10.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form2.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form8.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form9.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Properties.Resources.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.GenerateResource.cache
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.CoreCompileInputs.cache
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.exe
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.pdb
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.LogInForm.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Manager_Menu.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.empControl.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.SaleManCtrl.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.BikeCtrl.resources
+M:\VP Project\Complete UI\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.BikeSell.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe.config
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.exe
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\bin\Debug\bikeshowroom.pdb
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.AssemblyReference.cache
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.LogInForm.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form10.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form2.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Manager_Menu.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.BikeSell.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.SaleManCtrl.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.BikeCtrl.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.empControl.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form8.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Form9.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.Properties.Resources.resources
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.GenerateResource.cache
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.csproj.CoreCompileInputs.cache
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.exe
+C:\Users\samee\Downloads\bikeshowroom\bikeshowroom\obj\Debug\bikeshowroom.pdb
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\bin\Debug\bikeshowroom.exe.config
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\bin\Debug\bikeshowroom.exe
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\bin\Debug\bikeshowroom.pdb
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.AssemblyReference.cache
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.SuggestedBindingRedirects.cache
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.LogInForm.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form10.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form2.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Manager_Menu.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.BikeSell.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.SaleManCtrl.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.BikeCtrl.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.empControl.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form8.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form9.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Properties.Resources.resources
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.GenerateResource.cache
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.CoreCompileInputs.cache
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.exe
+C:\Users\samee\Downloads\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.pdb
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\bin\Debug\bikeshowroom.exe.config
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\bin\Debug\bikeshowroom.exe
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\bin\Debug\bikeshowroom.pdb
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.AssemblyReference.cache
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.SuggestedBindingRedirects.cache
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.LogInForm.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form10.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Manager_Menu.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.BikeSell.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.SaleManCtrl.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.BikeCtrl.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.empControl.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form8.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Form9.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Properties.Resources.resources
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.GenerateResource.cache
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.csproj.CoreCompileInputs.cache
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.exe
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.pdb
+M:\VP Project\FINAL\Complete UI\form1_Completed\bikeshowroom\obj\Debug\bikeshowroom.Bike_Panel.resources
